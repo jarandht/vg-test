@@ -1,0 +1,2 @@
+login.microsoftonline.com
+graph.microsoft.co
